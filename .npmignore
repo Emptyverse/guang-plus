@@ -1,0 +1,15 @@
+# 打包忽略目录
+examples/
+packages/
+public/
+/build
+node_modules
+
+#忽略指定文件
+babel.config.js
+postcss.config.js
+vue.config.js
+
+.gitignore
+*.map
+*.html
